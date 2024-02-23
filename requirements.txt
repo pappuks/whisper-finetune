@@ -1,0 +1,10 @@
+bitsandbytes 
+datasets 
+accelerate
+librosa
+transformers
+soundfile
+torch
+evaluate
+jiwer
+peft
