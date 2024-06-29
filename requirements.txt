@@ -8,3 +8,4 @@ torch
 evaluate
 jiwer
 peft
+numpy==1.*
